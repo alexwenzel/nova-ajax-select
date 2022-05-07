@@ -10,7 +10,7 @@ onlky supports nova 4 and php 8.
 ### Install
 
 ```
-composer require dillingham/nova-ajax-select
+composer require alexwenzel/nova-ajax-select
 ```
 
 ### Usage
