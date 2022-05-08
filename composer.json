@@ -1,14 +1,26 @@
 {
     "name": "alexwenzel/ajax-select",
-    "description": "A Laravel Nova field.",
+    "description": "A Laravel Nova 4 field - Ajax Select",
     "keywords": [
         "laravel",
-        "nova"
+        "nova",
+        "ajax",
+        "select"
     ],
     "license": "MIT",
     "require": {
-        "php": "^7.3|^8.0"
+        "php": "^8.0"
     },
+    "authors": [
+        {
+            "name": "alexwenzel",
+            "email": "alexander.wenzel.berlin@gmail.com"
+        },
+        {
+            "name": "dillingham",
+            "email": "brian@dillingham.dev"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "Alexwenzel\\AjaxSelect\\": "src/"
