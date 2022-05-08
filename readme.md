@@ -1,9 +1,9 @@
-# Nova Ajax Select (only nova 4 support)
+# Nova Ajax Select (Nova 4)
 
 Ajax populated select fields based on the values of other fields and when they change.
 
 This is a fork of [https://github.com/dillingham/nova-ajax-select](https://github.com/dillingham/nova-ajax-select) and
-onlky supports nova 4 and php 8.
+**only supports nova 4 and php 8**.
 
 ![nova-ajax-select](https://user-images.githubusercontent.com/29180903/52602810-15c53900-2e32-11e9-9ade-492bfe80b234.gif)
 

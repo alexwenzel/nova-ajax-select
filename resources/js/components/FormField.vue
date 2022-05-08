@@ -112,7 +112,6 @@ export default {
             if (this.notWatching() || (this.parentValue != null && this.parentValue != '')) {
                 Nova.request().get(this.endpoint)
                     .then(response => {
-                        console.log(response)
                         this.loaded = true;
                         this.options = response.data;
                         let optionValueExists = false;
