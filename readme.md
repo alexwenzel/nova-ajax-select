@@ -10,7 +10,7 @@ This is a fork of [https://github.com/dillingham/nova-ajax-select](https://githu
 ### Install
 
 ```
-composer require alexwenzel/nova-ajax-select
+composer require alexwenzel/ajax-select
 ```
 
 ### Usage
