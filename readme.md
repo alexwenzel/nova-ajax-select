@@ -18,7 +18,7 @@ composer require alexwenzel/ajax-select
 Specify a request url & optionally the `parent($attribute)` to watch & trigger the ajax select:
 
 ```php
-use NovaAjaxSelect\AjaxSelect;
+use Alexwenzel\AjaxSelect\AjaxSelect;
 ```
 
 ```php
